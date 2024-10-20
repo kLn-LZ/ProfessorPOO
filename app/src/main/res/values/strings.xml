@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProfessorPOO</string>
+    <string name="etNome">Insira o nome do professor</string>
+    <string name="etMatricula">Insira a matrícula do professor</string>
+    <string name="etIdade">Insira a idade do Professor</string>
+    <string name="rbTitular">Titular</string>
+    <string name="rbHorista">Horista</string>
+    <string name="btnCalc">Calcular</string>
+</resources>
